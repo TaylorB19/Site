@@ -1,0 +1,53 @@
+body{
+background-color: dodgerblue
+}
+
+h1 {
+    text-align: center;
+
+    color: white;
+
+    border: 4px solid red;
+
+    font-family: 'Inconsolata', monospace;
+
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+
+
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+
+  color: white
+}
+
+ul {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    color: white
+}
+
+p {
+  text-align: center;
+}
+
+
+img
+{border: 3px solid white;
+
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
